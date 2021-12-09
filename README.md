@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kunal!!
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning: HTML-CSS {Responsive}
+- 🌱 I’m currently learning: C
 - 📫 How to reach me: [@KunalCodes](https://twitter.com/KunalCodes)
 
 ## Connect with me here 🤝
