@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kunal!!
-- 👀 I’m interested in ...
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning: C
 - 📫 How to reach me: [@KunalCodes](https://twitter.com/KunalCodes)
 
