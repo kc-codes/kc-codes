@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kunal!!
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning: C
+- 🌱 I’m currently learning: Node.js
 - 📫 How to reach me: [@KunalCodes](https://twitter.com/KunalCodes)
 
 ## Connect with me here 🤝
