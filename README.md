@@ -86,7 +86,7 @@
 
  <hr/>
 
-<details><summary>🪶 Certifications and Badges</summary>-->
+<details><summary>🪶 Certifications and Badges</summary>
 <table align="center">
  <tr align="center">
    <td style="border-right: 1px solid #eeeeef;" align="center">
