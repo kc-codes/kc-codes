@@ -86,56 +86,56 @@
 
  <hr/>
 
-<!--<details><summary>🪶 Certifications and Badges</summary>-->
-<!--<table align="center">-->
-<!--  <tr align="center">-->
-<!--    <td style="border-right: 1px solid #eeeeef;" align="center">-->
-<!--      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Postman%20Badge.png" alt="CCNA" width="100" />-->
-<!--      <br>-->
-<!--      <strong>CCNA</strong>-->
-<!--    </td>-->
-<!--    <td style="border-right: 1px solid #eeeeef;" align="center">-->
-<!--      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Explorer%20Badge.png" alt="Google Cybersecurity Professional" width="100" />-->
-<!--      <br>-->
-<!--      <strong>Google Cybersecurity Professional Certificate</strong>-->
-<!--    </td>-->
-<!--    <td style="border-right: 1px solid #eeeeef;" align="center">-->
-<!--      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Adventurer%20Badge.png" alt="Az-900" width="100" />-->
-<!--      <br>-->
-<!--      <strong>Az-900</strong>-->
-<!--    </td>-->
-<!--    <td style="border-right: 1px solid #eeeeef;" align="center">-->
-<!--      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Trailblazer%20Badge.png" alt="Ai-900" width="100" />-->
-<!--      <br>-->
-<!--      <strong>Ai-900</strong>-->
-<!--    </td>-->
-<!--    </td>-->
-<!--  </tr>-->
-<!--</table>-->
+<details><summary>🪶 Certifications and Badges</summary>-->
+<table align="center">
+ <tr align="center">
+   <td style="border-right: 1px solid #eeeeef;" align="center">
+     <img src="./assests/CCNA.png" alt="CCNA" width="100" />
+     <br>
+     <strong>CCNA</strong>
+   </td>
+   <td style="border-right: 1px solid #eeeeef;" align="center">
+     <img src="./assests/GoogleCyber.png" alt="Google Cybersecurity Professional" width="100" />
+     <br>
+     <strong>Google Cybersecurity Professional </strong>
+   </td>
+   <td style="border-right: 1px solid #eeeeef;" align="center">
+     <img src="./assests/Az900.png" alt="Az-900" width="100" />
+     <br>
+     <strong>Az-900</strong>
+   </td>
+   <td style="border-right: 1px solid #eeeeef;" align="center">
+     <img src="./assests/Ai900.png" alt="Ai-900" width="100" />
+     <br>
+     <strong>Ai-900</strong>
+   </td>
+   </td>
+ </tr>
+</table>
 
-<!--<table align="center">-->
-<!--  <tr align="center">-->
-<!--    <td style="border-right: 1px solid #eeeeef;" align="center">-->
-<!--      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Summit%20Seeker%20Badge.png" alt="Junior Cybersecurity Analyst" width="100" />-->
-<!--      <br>-->
-<!--      <strong>Junior Cybersecurity Analyst</strong>-->
-<!--    </td>-->
-<!--    <td style="border-right: 1px solid #eeeeef;" align="center">-->
-<!--      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Champion%20Badge.png" alt="ISC2 Candidate" width="100" />-->
-<!--      <br>-->
-<!--      <strong>ISC2 Candidate</strong>-->
-<!--    </td>-->
-<!--    <td align="center">-->
-<!--      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Innovator%20Bage.png" alt="Data Analysis Using Python" width="100" />-->
-<!--      <br>-->
-<!--      <strong>Data Analysis Using Python</strong>-->
-<!--    </td>-->
-<!--    <td align="center">-->
-<!--      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Conqurer%20Badge.png" alt="Postman Badge" width="100" />-->
-<!--      <br>-->
-<!--      <strong>Postman</strong>-->
-<!--    </td>-->
-<!--  </tr>-->
-<!--</table>-->
-<!--<br>-->
-<!--</details>-->
+<table align="center">
+ <tr align="center">
+   <td style="border-right: 1px solid #eeeeef;" align="center">
+     <img src="./assests/jrcybersecurity.png" alt="Junior Cybersecurity Analyst" width="100" />
+     <br>
+     <strong>Junior Cybersecurity Analyst</strong>
+   </td>
+   <td style="border-right: 1px solid #eeeeef;" align="center">
+     <img src="./assests/ISC2.png" alt="ISC2 Candidate" width="100" />
+     <br>
+     <strong>ISC2 Candidate</strong>
+   </td>
+   <td align="center">
+     <img src="./assests/dataanalysis.png" alt="Data Analysis Using Python" width="100" />
+     <br>
+     <strong>Data Analysis Using Python</strong>
+   </td>
+   <td align="center">
+     <img src="./assests/postman.png" alt="Postman Badge" width="100" />
+     <br>
+     <strong>Postman</strong>
+   </td>
+ </tr>
+</table>
+<br>
+</details> 
