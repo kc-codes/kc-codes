@@ -14,9 +14,9 @@
 
  <h4>🌐 Engaged in diverse projects across cloud platforms like Azure, GCP, and AWS, combining my interests in AI, cloud engineering, and cybersecurity.</h4>
 
- <h4>🤖 A proud participant in hackathons and CTF challenges, constantly sharpening my problem-solving skills to make the digital world safer.</h4>
+ <h4>🤖 Active participant in hackathons and CTF challenges, constantly sharpening my problem-solving skills to make the digital world safer.</h4>
 
-  <h4>📧 Contact me at: kunal.kc2003@gmail.com</h4>
+  <h4>📧 Contact me at: <a href ="mailto:kunal.kc2003@gmail.com">kunal.kc2003@gmail.com</a></h4>
 
 </div>
 <div align="center"> 
