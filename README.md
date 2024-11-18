@@ -19,12 +19,13 @@
   <h4>📧 Contact me at: <a href ="mailto:kunal.kc2003@gmail.com">kunal.kc2003@gmail.com</a></h4>
 
 </div>
-<div align="center"> 
+<div align="center">
+
   <a href="https://www.linkedin.com/in/kunal23/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-</div>
-<div align="center"> 
+
+
   <a href="https://kc-codes.github.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
@@ -139,3 +140,6 @@
 </table>
 <br>
 </details> 
+
+<hr/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kc-codes&label=Profile%20views&color=0e75b6&style=flat" alt="kc-codes" /> </p>
